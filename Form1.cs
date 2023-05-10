@@ -26,5 +26,10 @@ namespace ChessGame
         {
 
         }
+
+        private void playerA_label_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
